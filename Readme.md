@@ -80,7 +80,7 @@ The **Ad Astra Project** is a productivity and wellness hub designed to help use
 ![Dashboard Screenshot](https://github.com/shreyazh/The-Ad-Astra-Project/blob/84846d08c778cec4c06bd418f51d35b74d1d5946/Screenshot%202024-11-10%20220235.png)
 
 ### Task Management
-![Tasks Screenshot](Screenshot 2024-11-10 220119.png)
+![Tasks Screenshot](https://github.com/shreyazh/The-Ad-Astra-Project/blob/cdb7439d1f0f0cde8f817182fb7b823b6e030557/Screenshot%202024-11-10%20220119.png)
 
 ## Contributing
 
