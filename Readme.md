@@ -77,10 +77,10 @@ The **Ad Astra Project** is a productivity and wellness hub designed to help use
 ## Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshot 2024-11-10 220235.png)
 
 ### Task Management
-![Tasks Screenshot](screenshots/tasks.png)
+![Tasks Screenshot](Screenshot 2024-11-10 220119.png)
 
 ## Contributing
 
