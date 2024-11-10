@@ -1,6 +1,6 @@
 # The Ad Astra Project
 
-![Ad Astra Logo](logo.png)
+![Ad Astra Logo](https://github.com/shreyazh/The-Ad-Astra-Project/blob/980c2506df8f040c808527e69b9c60cc6f7cad37/Ad%20astra_20241110_213644_0000.png)
 
 ## Overview
 
